@@ -31,7 +31,7 @@ h1 {
 .container {
     align-self: center;
     max-width: 400px;
-    max-height: 95vh;
+    min-height: 55vh;
     margin: 0 auto;
     background-color: var(--cardBg);
     border-radius: 1em;
